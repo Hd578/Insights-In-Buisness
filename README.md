@@ -1,4 +1,8 @@
 # Insights-In-Buisness
+
+Generated Effective and insightful visualisation view for Atliq company 
+
+
 Info View
 
 An info view  in a Report is a section that provides key details about the report, helping users understand its purpose, content, and brief description about it.(https://github.com/Hd578/Insights-In-Buisness/blob/main/1.png)

@@ -1,5 +1,6 @@
 # Insights-In-Buisness
 
+AtliQ Hardwares, a fast-growing consumer electronics company, faces challenges in competing with data-driven competitors due to its reliance on Excel-based reporting.
 Generated Effective and insightful visualisation view for Atliq company 
 
 

@@ -6,14 +6,14 @@ Generated Effective and insightful visualisation view for Atliq company
 
 Info View
 
-An info view  in a Report is a section that provides key details about the report, helping users understand its purpose, content, and brief description about it.(https://github.com/Hd578/Insights-In-Buisness/blob/main/1.png)
+An info view  in a Report is a section that provides key details about the report, helping users understand its purpose, content, and brief description about it.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Home%20view%20(sales).png)
 
 Finance View
 
 A Finance View in a report provides a comprehensive analysis of an organization’s financial data, helping stakeholders make informed decisions. It typically includes key financial metrics, trends, and visualizations.
 Key Components of Finance View:
 Revenue & Expenses – Overview of income and costs over a specific period.
-Profit & Loss Statement (P&L) – Net profit, gross profit, and operating expenses(https://github.com/Hd578/Insights-In-Buisness/blob/main/2.png)
+Profit & Loss Statement (P&L) – Net profit, gross profit, and operating expenses()
 
 Sales View
 

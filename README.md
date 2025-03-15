@@ -47,7 +47,7 @@ A Performance View in a report provides a comprehensive analysis of key performa
 
 Support
 
-A Support View in a report provides insights into customer support operations, tracking key metrics related to issue resolution, customer satisfaction, and team efficiency. It helps businesses optimize their support services and enhance customer experience.(https://github.com/Hd578/Insights-In-Buisness/blob/main/9.png)
+A Support View in a report provides insights into customer support operations, tracking key metrics related to issue resolution, customer satisfaction, and team efficiency. It helps businesses optimize their support services and enhance customer experience.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Support%20view.png)
 
 
 

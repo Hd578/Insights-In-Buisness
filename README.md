@@ -39,7 +39,7 @@ Executive View
 An Executive View in a report provides a high-level summary of key business metrics, offering decision-makers a quick and insightful overview of performance across various departments. It focuses on strategic KPIs, trends, and critical insights that help executives make data-driven decisions.
 Financial Summary – Revenue, profit margins, cost analysis, and cash flow.
 Sales & Marketing Performance – Net sales, lead conversions, customer acquisition cost (CAC), and ROI.
-Growth & Forecasting – Predictive analytics on future trends, market expansion, and revenue forecasts.(https://github.com/Hd578/Insights-In-Buisness/blob/main/6.png)
+Growth & Forecasting – Predictive analytics on future trends, market expansion, and revenue forecasts.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Executive%20view%20(2).png)
 
 Performance view
 

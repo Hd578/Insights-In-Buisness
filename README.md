@@ -43,7 +43,7 @@ Growth & Forecasting – Predictive analytics on future trends, market expansion
 
 Performance view
 
-A Performance View in a report provides a comprehensive analysis of key performance indicators (KPIs) across different business functions. It helps organizations track progress, identify trends, and optimize strategies for better efficiency and growth.(https://github.com/Hd578/Insights-In-Buisness/blob/main/7.png)
+A Performance View in a report provides a comprehensive analysis of key performance indicators (KPIs) across different business functions. It helps organizations track progress, identify trends, and optimize strategies for better efficiency and growth.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Performance%20view.png)
 
 Support
 

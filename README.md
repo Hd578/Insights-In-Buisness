@@ -20,7 +20,7 @@ Sales View
 A Sales View in a report provides a detailed analysis of sales performance, helping businesses track revenue, monitor trends, and optimize strategies. It includes key sales metrics, visualizations, and insights to support data-driven decision-making.
 Key Components of Sales View:
 Sales by Region – Performance breakdown by location or market segment.
-Product Performance – Best-selling products, categories, and profitability.(https://github.com/Hd578/Insights-In-Buisness/blob/main/3.png)
+Product Performance – Best-selling products, categories, and profitability.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Sales%20view.png)
 
 Marketing View
 

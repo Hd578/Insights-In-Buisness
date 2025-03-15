@@ -24,7 +24,7 @@ Product Performance – Best-selling products, categories, and profitability.(ht
 
 Marketing View
 
-A Marketing View in a report provides insights into the effectiveness of marketing campaigns, customer engagement, and overall brand performance. It helps businesses track key marketing metrics, optimize strategies, and improve ROI.(https://github.com/Hd578/Insights-In-Buisness/blob/main/4.png)
+A Marketing View in a report provides insights into the effectiveness of marketing campaigns, customer engagement, and overall brand performance. It helps businesses track key marketing metrics, optimize strategies, and improve ROI.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Marketing%20view.png)
 
 Supply Chain View
 

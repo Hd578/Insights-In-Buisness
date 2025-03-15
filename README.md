@@ -32,7 +32,7 @@ A Supply Chain View in a report provides insights into the efficiency, performan
 Key Components of Supply Chain View:
 Inventory Management – Stock levels, turnover rate, and replenishment cycle.
 Demand & Supply Forecasting – Predictive analytics for inventory planning.
-Risk Management – Identifying disruptions, supplier dependencies, and mitigation plans.(https://github.com/Hd578/Insights-In-Buisness/blob/main/5.png)
+Risk Management – Identifying disruptions, supplier dependencies, and mitigation plans.(https://github.com/Hd578/Insights-In-Buisness/blob/main/Supply%20Chain%20view.png)
 
 Executive View
 
